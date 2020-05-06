@@ -15,5 +15,5 @@ public class WxUtil {
         // 获取小程序二维码
         String SP_GET_QR_CODE = "https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token={accessToken}";
     }
-    
+
 }
