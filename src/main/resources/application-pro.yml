@@ -27,3 +27,6 @@ sharding:
     config:
       sharding:
         default-data-source-name: ds
+      props:
+        sql.show: true
+
